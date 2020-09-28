@@ -1,6 +1,6 @@
 # leetCode
 
-# to run the tests
+### to run the tests
 at root level, do
 
 ```
