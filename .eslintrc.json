@@ -15,7 +15,8 @@
     "rules": {
       "func-names": ["error", "never"],
       "prefer-arrow-callback" : 0,
-      "mocha/prefer-arrow-callback": 2
+      "mocha/prefer-arrow-callback": 2,
+      "no-unused-expressions" : "off"
     },
     "plugins" : [
       "mocha"

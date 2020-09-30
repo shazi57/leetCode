@@ -17,4 +17,3 @@ describe('inserting a value in a binary search tree', function () {
     expect(root.right.left.val).to.equal(5);
   });
 });
-
