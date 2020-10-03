@@ -9,7 +9,7 @@ npm test
 ```
 
 If you only want to use my test cases, 
-just replace function body with your implementation run the test.
+just replace function body with your implementation and run the test.
 All problems are located in the 'Problems' directory
 
 ```
