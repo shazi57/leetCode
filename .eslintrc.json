@@ -17,7 +17,8 @@
       "prefer-arrow-callback" : 0,
       "mocha/prefer-arrow-callback": 2,
       "no-unused-expressions" : "off",
-      "no-restricted-syntax" : "off"
+      "no-restricted-syntax" : "off",
+      "no-param-reassign": "off"
     },
     "plugins" : [
       "mocha"
