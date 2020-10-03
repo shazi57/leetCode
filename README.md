@@ -8,7 +8,9 @@ npm install
 npm test
 ```
 
-You can also just use my tests to test your solutions, but make sure to export the main function like below:
+If you only want to use my test cases, 
+just replace function body with your implementation run the test.
+All problems are located in the 'Problems' directory
 
 ```
 const foo = function() {
